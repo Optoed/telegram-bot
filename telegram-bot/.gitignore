@@ -1,0 +1,11 @@
+# Golang specific
+/bin/
+/pkg/
+/vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
